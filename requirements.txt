@@ -1,0 +1,6 @@
+opencv-python==4.5.5.62
+selenium==3.141.0
+pandas==0.23.4
+matplotlib==3.3.2
+numpy==1.18.5
+
